@@ -1,0 +1,23 @@
+[
+    {
+      "destination": "Paris",
+      "imgUrl": "https://images.adsttc.com/media/images/5d44/14fa/284d/d1fd/3a00/003d/large_jpg/eiffel-tower-in-paris-151-medium.jpg?1564742900",
+      "description": "Experience the romance and beauty of Paris, with its iconic landmarks, charming cafes, and rich art history."
+    },
+    {
+      "destination": "Tokyo",
+      "imgUrl": "https://media.timeout.com/images/105818616/750/422/image.jpg",
+      "description": "Discover the futuristic city of Tokyo, with its vibrant culture, delicious cuisine, and unique blend of tradition and modernity."
+    },
+    {
+      "destination": "New York City",
+      "imgUrl": "https://media.gq-magazine.co.uk/photos/5d13a9c2976fa37177f3b040/1:1/w_1280,h_1280,c_limit/hp-gq-6dec18_istock_.jpg",
+      "description":" Experience the energy and excitement of New York City, with its iconic skyscrapers, bustling streets, and world-class museums."
+    },
+    {
+      "destination": "Sydney",
+      "imgUrl": "https://cdn.getyourguide.com/img/location/5ffeb4159fc51.jpeg/75.jpg",
+      "description": "Explore the stunning harbor city of Sydney, with its beautiful beaches, iconic Opera House, and laid-back Aussie vibe."
+    }
+  ]
+  
