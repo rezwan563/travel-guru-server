@@ -75,21 +75,5 @@
                 "imageUrl": "https://example.com/st-reg"
             }
         ]
-    },
-    {
-        "id": "04",
-        "name": "Sydney",
-        "latitude": -33.865143,
-        "longitude": 151.2093,
-        "imageUrl": "https://example.com/sydney.jpg",
-        "description": "Explore the stunning harbor city of Sydney, with its beautiful beaches, iconic Opera House, and laid-back Aussie vibe.",
-        "hotels": [
-            {
-                "id": 7,
-                "name": "Park Hyatt Sydney",
-                "imageUrl": "https://example.com/park-hyatt-sydney.jpg",
-                "description": "Experience luxury and breathtaking views at the stunning Park Hyatt Sydney, located"
-            }
-        ]
     }
 ]

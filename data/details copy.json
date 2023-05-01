@@ -1,86 +1,67 @@
 [
     {
-        "id": 1,
+        "id": "01",
         "name": "Paris",
-        "latitude": 48.8566,
-        "longitude": 2.3522,
         "imageUrl": "https://example.com/paris.jpg",
         "description": "Experience the romance and beauty of Paris, with its iconic landmarks, charming cafes, and rich art history.",
         "hotels": [
             {
                 "id": 1,
                 "name": "Hotel Ritz Paris",
-                "latitude": 48.8656,
-                "longitude": 2.3287,
                 "imageUrl": "https://example.com/ritz-paris.jpg",
                 "description": "Experience luxury and elegance at the historic Hotel Ritz Paris, located in the heart of the city."
             },
             {
                 "id": 2,
                 "name": "Hotel Le Bristol Paris",
-                "latitude": 48.8703,
-                "longitude": 2.3124,
                 "imageUrl": "https://example.com/le-bristol-paris.jpg",
                 "description": "Enjoy a luxurious stay at the beautiful Hotel Le Bristol Paris, known for its exceptional service and Michelin-starred restaurant."
             }
         ]
     },
     {
-        "id": 2,
+        "id": "02",
         "name": "Tokyo",
-        "latitude": 35.6895,
-        "longitude": 139.6917,
         "imageUrl": "https://example.com/tokyo.jpg",
         "description": "Discover the futuristic city of Tokyo, with its vibrant culture, delicious cuisine, and unique blend of tradition and modernity.",
         "hotels": [
             {
                 "id": 3,
                 "name": "Park Hyatt Tokyo",
-                "latitude": 35.6772,
-                "longitude": 139.7611,
                 "imageUrl": "https://example.com/park-hyatt-tokyo.jpg",
                 "description": "Experience luxury and breathtaking views at the iconic Park Hyatt Tokyo, featured in the movie 'Lost in Translation.'"
             },
             {
                 "id": 4,
                 "name": "The Peninsula Tokyo",
-                "latitude": 35.6852,
-                "longitude": 139.7644,
                 "imageUrl": "https://example.com/peninsula-tokyo.jpg",
                 "description": "Indulge in sophisticated luxury at The Peninsula Tokyo, with its stunning views, impeccable service, and Michelin-starred restaurant."
             }
         ]
     },
     {
-        "id": 3,
+        "id": "03",
         "name": "New York City",
-        "latitude": 40.7128,
-        "longitude": -74.0060,
         "imageUrl": "https://example.com/nyc.jpg",
         "description": "Experience the energy and excitement of New York City, with its iconic skyscrapers, bustling streets, and world-class museums.",
         "hotels": [
             {
                 "id": 5,
                 "name": "The Plaza",
-                "latitude": 40.7644,
-                "longitude": -73.9740,
                 "imageUrl": "https://example.com/the-plaza.jpg",
                 "description": "Experience timeless elegance and luxury at The Plaza, located on Fifth Avenue and overlooking Central Park."
             },
             {
                 "id": 6,
                 "name": "The St. Regis New York",
-                "latitude": 40.7619,
-                "longitude": -73.9744,
-                "imageUrl": "https://example.com/st-reg"
+                "imageUrl": "https://example.com/st-regis-nyc.jpg",
+                "description": "Enjoy the ultimate in luxury at The St. Regis New York, with its opulent decor, butler service, and Michelin-starred restaurant."
             }
         ]
     },
     {
         "id": "04",
         "name": "Sydney",
-        "latitude": -33.865143,
-        "longitude": 151.2093,
         "imageUrl": "https://example.com/sydney.jpg",
         "description": "Explore the stunning harbor city of Sydney, with its beautiful beaches, iconic Opera House, and laid-back Aussie vibe.",
         "hotels": [
